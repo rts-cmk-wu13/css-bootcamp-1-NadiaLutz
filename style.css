@@ -8,6 +8,10 @@ body {
     background: linear-gradient(to right, rgba(93, 0, 255, 0.375) , rgba(34, 107, 31, 0.649));
 }
 
+html {
+    font-family: "Ovo", Arial, Helvetica, sans-serif;;
+}
+
 header ul {
     display: flex;
     justify-content: space-between;
