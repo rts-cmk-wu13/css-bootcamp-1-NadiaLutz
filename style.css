@@ -28,6 +28,10 @@ li {
     font-size: 2rem;
 }
 
+ol li:last-child {
+    background: purple;
+}
+
 h1 {
     font-family: "Borel", Arial, Helvetica, sans-serif;
     font-size: 4rem;
