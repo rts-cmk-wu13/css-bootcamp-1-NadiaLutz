@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, rgba(93, 0, 255, 0.375) , rgba(34, 107, 31, 0.649));
+}
+
+html {
+    font-family: "Ovo", Arial, Helvetica, sans-serif;;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-block: 3rem;
+    margin-inline: 4rem;
+}
+
+ol li {
+    color: rgb(38, 255, 0);
+}
+
+li {
+    font-size: 2rem;
+}
+
+ol li:last-child {
+    background: purple;
+}
+
+h1 {
+    font-family: "Borel", Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    margin-block: 3rem;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+figure {
+    margin-block-start: 5rem;
+}
+
+.mountain {
+    float: left;
+}
+
+.mountain__caption {
+    float: right;
+}
