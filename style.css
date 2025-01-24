@@ -30,3 +30,12 @@ h1 {
     text-align: center;
     margin-block: 3rem;
 }
+
+
+.mountain {
+    float: left;
+}
+
+.mountain__caption {
+    float: right;
+}
