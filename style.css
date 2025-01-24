@@ -22,4 +22,7 @@ li {
 
 h1 {
     font-family: "Borel", Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    margin-block: 3rem;
 }
